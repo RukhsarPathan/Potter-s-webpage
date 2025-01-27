@@ -1,0 +1,83 @@
+h1{
+    
+    font-family:cormorant, serif;
+    font-weight: 300;
+    margin-right:22px;   
+}
+
+nav ul {
+    list-style-type: none;   
+}
+
+h1 {
+    display:inline-block;
+}
+
+.links {
+    display: inline-block;
+}    
+.links li {
+    display: inline-block;
+    
+    
+}
+.links a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin:0px 8px;
+}
+
+.navbar{
+    margin: 22px;
+}
+
+.links ul{
+    padding:0;
+}
+a.active {
+    border-bottom: solid 1px black;
+}
+.card img {
+        
+        height: 350px;
+        width:100%;
+        object-fit: cover;
+    }
+
+.card h3{
+    font-family:cormorant, serif;
+    font-weight: 300;
+    margin-right:22px;
+    margin-top:5px 0 0 0;
+}
+.card {
+    width:49.75%;
+    display:inline-block;
+    box-sizing: border-box;
+    padding:10px;   
+}
+
+.about h3 {
+    font-family:cormorant, serif;
+    display: inline-block;
+    font-weight: 300;
+    font-size: 20px;
+    color: black;
+}
+
+.about {
+    width: 44%;
+    min-width: 400px;
+   margin:20px 0 20px 60px;
+}
+
+#craft{
+    border-bottom: solid black 1.5px;
+    padding-bottom: 3px;
+    margin-top:0;   
+}
+
+img:hover{
+    opacity: 60%;
+}
