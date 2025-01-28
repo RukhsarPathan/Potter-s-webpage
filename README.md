@@ -8,3 +8,5 @@ Welcome to **Potter's Webpage**, a showcase of the finest pottery collections. H
 - **Brand Identity**: The brand name is prominently featured, giving the webpage a cohesive and professional look.
 - **Well-Spaced Layout**: The design ensures ample space between images and sections to maintain a clean, organized aesthetic throughout the page.
 - **Static Design**: This is a static webpage designed for desktop viewing. The page layout is fixed, however, images will shrink to fit the small area if you minimize the window, as the `object-fit` property has been used to maintain proper aspect ratios.
+## Live Demo
+[Click here to view the live demo](https://rukhsarpathan.github.io/Potter-s-webpage/)
