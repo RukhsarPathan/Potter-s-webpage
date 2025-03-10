@@ -7,6 +7,8 @@ Welcome to **Potter's Webpage**, a showcase of the finest pottery collections. H
 - **Navigation Bar**: A simple, clean navigation bar aligned with the brand name, allowing easy access to different sections of the page.
 - **Brand Identity**: The brand name is prominently featured, giving the webpage a cohesive and professional look.
 - **Well-Spaced Layout**: The design ensures ample space between images and sections to maintain a clean, organized aesthetic throughout the page.
-- **Static Design**: This is a static webpage designed for desktop viewing. The page layout is fixed, however, images will shrink to fit the small area if you minimize the window, as the `object-fit` property has been used to maintain proper aspect ratios.
+- **Responsive Design**:The layout adapts to different screen sizes, providing a smooth experience on mobile, tablet, and desktop.
+**Fluid Images**: The images resize while maintaining their aspect ratios using object-fit, preventing distortion on smaller screens.
+**Media Queries**: The page structure adjusts dynamically for better readability and usability.
 ## Live Demo
 [Click here to view the live demo](https://rukhsarpathan.github.io/Potter-s-webpage/)
